@@ -1,5 +1,7 @@
 # Tugas-2-Kecerdasan-Artifisial-2108107010030
 
+Nama : Tyara Raynasari 
+
 Tugas ini dibuat untuk memenuhi tugas mata kuliah Kecerdasan Artifisial. Pada tugas ini, saya mengklasifikasikan suatu data penyakit ke dalam tumor jinak (Benign Cancer) atau tumor ganas (Malignant Cancer). 
 
 Cara menjalankan kode ini : 
